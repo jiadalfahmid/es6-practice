@@ -1,0 +1,1 @@
+const basic = console.log('Starting ES6 Practice')
